@@ -113,9 +113,9 @@ Knowler, W.C., et al. (2002). Reduction in the incidence of type 2 diabetes with
 
 ## Author
 
-*[Your Name]*  
-Pre-medical student | [University Name]  
-[Your Email] · [LinkedIn]
+*Aryan Shoaei*  
+Pre-medical student | The University of Texas at Austin  
+aryanshoaei9@gmail.com 
 
 ---
 
