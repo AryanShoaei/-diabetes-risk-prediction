@@ -6,9 +6,9 @@
 
 ## Overview
 
-This project analyzes the **PIMA Indians Diabetes Dataset** (Smith et al., 1988) — a well-established benchmark dataset in clinical machine learning research — to build a predictive model for diabetes risk classification.
+This project analyzes the **PIMA Indians Diabetes Dataset** (Smith et al., 1988) which is a well-established benchmark dataset in clinical machine learning research to build a predictive model for diabetes risk classification.
 
-The goal was to identify which metabolic and demographic features are most predictive of diabetes onset, and to evaluate the performance of a logistic regression classifier on a real-world clinical dataset.
+The goal: to identify which metabolic and demographic features are most predictive of diabetes and to evaluate the performance of a logistic regression classifier on a  clinical dataset.
 
 ---
 
